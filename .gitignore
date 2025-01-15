@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+outputs/
+eval_outputs/
+eval_output/
+model_weights/
+saved/
+**/__pycache__/
